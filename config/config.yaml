@@ -1,0 +1,9 @@
+flags:
+  debug: false
+  dtype: float32
+  seed: 1
+data:
+  text_data:
+    train_validation_split: 0.8
+    block_size: 8
+    batch_size: 32
